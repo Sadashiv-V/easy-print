@@ -1,0 +1,7 @@
+data/*
+!data/sample_roster.csv
+__pycache__/
+*.pyc
+.env
+.env
+data/
